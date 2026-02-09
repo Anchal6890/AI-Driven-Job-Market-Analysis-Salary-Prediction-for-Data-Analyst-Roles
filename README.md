@@ -100,4 +100,4 @@ Data is processed using **SQL for structured querying** and **Python for analysi
 ## ▶️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-driven-job-market-analysis.git
+   git clone https://github.com/Anchal6890/AI-Driven-Job-Market-Analysis-Salary-Prediction-for-Data-Analyst-Roles.git
